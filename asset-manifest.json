@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meproulette/static/css/main.796b63e2.css",
+    "main.js": "/meproulette/static/js/main.345a189e.js",
+    "index.html": "/meproulette/index.html",
+    "main.796b63e2.css.map": "/meproulette/static/css/main.796b63e2.css.map",
+    "main.345a189e.js.map": "/meproulette/static/js/main.345a189e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796b63e2.css",
+    "static/js/main.345a189e.js"
+  ]
+}
