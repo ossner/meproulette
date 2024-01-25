@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/meproulette/static/css/main.796b63e2.css",
-    "main.js": "/meproulette/static/js/main.345a189e.js",
+    "main.css": "/meproulette/static/css/main.91dcd8b9.css",
+    "main.js": "/meproulette/static/js/main.e897d540.js",
     "index.html": "/meproulette/index.html",
-    "main.796b63e2.css.map": "/meproulette/static/css/main.796b63e2.css.map",
-    "main.345a189e.js.map": "/meproulette/static/js/main.345a189e.js.map"
+    "main.91dcd8b9.css.map": "/meproulette/static/css/main.91dcd8b9.css.map",
+    "main.e897d540.js.map": "/meproulette/static/js/main.e897d540.js.map"
   },
   "entrypoints": [
-    "static/css/main.796b63e2.css",
-    "static/js/main.345a189e.js"
+    "static/css/main.91dcd8b9.css",
+    "static/js/main.e897d540.js"
   ]
 }
