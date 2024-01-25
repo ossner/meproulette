@@ -20,11 +20,15 @@ const Question = ({ data, onAnswerSelected }) => {
                         disabled={disabled}
                         style={{ backgroundColor: answered ? (option === correctAnswer ? '#467A39' : '#DA2131') : '#004494' }}
                         onClick={() => {
-                            setAnswered(true);setShowHint(false);setDisabled(true)
+                            setAnswered(true);
+                            setShowHint(false);
+                            setDisabled(true);
+                            setShowHint(true);
                             setTimeout(() => {
                                 onAnswerSelected(option);
                                 setAnswered(false);
-                                setDisabled(false)
+                                setDisabled(false);
+                                setShowHint(false);
                             }, 1000);
                         }}
                     >
